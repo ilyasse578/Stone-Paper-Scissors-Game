@@ -9,6 +9,11 @@
 ## 🧠 About the Game  
 A simple **console-based** Stone, Paper, Scissors game built in **C++**, where you can challenge the computer in a fun and random match.  
 
+💡 **Why I built this project:**  
+- To practice C++ basics and console I/O.  
+- To learn random number generation and game logic.  
+- To create a small fun project to showcase on GitHub.  
+
 ---
 
 ## ⚙️ How to Play  
