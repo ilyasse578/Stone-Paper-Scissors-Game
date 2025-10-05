@@ -1,25 +1,40 @@
-# Stone, Paper, Scissors Game
+# 🪨 Stone, Paper, Scissors Game 🎮  
 
-A simple console-based game in C++ where you can play Stone, Paper, Scissors against the computer.
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
+<img src="https://komarev.com/ghpvc/?username=ilyasse578&label=Views&color=blue&style=flat" alt="views"/>
 
-## How to Play
+---
 
-1. Run the program.
-2. Choose your move: Stone, Paper, or Scissors.
-3. The computer will randomly choose its move.
-4. The winner is displayed on the screen.
+## 🧠 About the Game  
+A simple **console-based** Stone, Paper, Scissors game built in **C++**, where you can challenge the computer in a fun and random match.  
 
-## Features
+---
 
-- Simple and interactive console game
-- Random computer moves
-- Keeps track of wins, losses, and draws
+## ⚙️ How to Play  
+1. Run the program.  
+2. Choose your move: **Stone**, **Paper**, or **Scissors**.  
+3. The computer randomly picks its move.  
+4. The winner is displayed instantly on the screen.  
 
-## Technologies Used
+---
 
-- C++
+## ✨ Features  
+- Interactive console interface 🖥️  
+- Random computer moves 🤖  
+- Keeps track of **wins**, **losses**, and **draws**  
+- Clean and simple C++ codebase  
 
-## How to Run
+---
 
-1. Compile `main.cpp` using any C++ compiler.
-2. Run the executable and follow the instructions on the screen.
+## 🧩 Technologies Used  
+- **C++**  
+- **Console I/O**  
+- **Random Number Generator**
+
+---
+
+## 🚀 How to Run  
+1. Compile `main.cpp` using any C++ compiler:  
+   ```bash
+   g++ main.cpp -o Game
